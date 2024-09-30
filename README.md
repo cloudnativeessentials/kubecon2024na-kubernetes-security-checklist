@@ -7,5 +7,5 @@ The install-kind-cilium.sh script installs Docker, jq, kind, kubectl, Cilium and
 To run the script, run the following:
 
 ```shell
-curl https://raw.githubusercontent.com/cloudnativeessentials/101-kubernetes-security/main/install-kind-cilium.sh | sh
+curl https://raw.githubusercontent.com/cloudnativeessentials/kubecon2024na-kubernetes-security-checklist/refs/heads/main/install-kind-cilium.sh | sh
 ```
